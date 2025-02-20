@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="28b5bf04-0603-496a-b2c2-0d902972246e">
+  <name>Конфигурация</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="9a3203f7-84f0-4bc4-9dd7-baa8a35f4c09"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="12348431-e092-465b-8f4e-d1e3ab3fc328"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="76380b50-5ebb-4d97-8ed1-7f3d394d947a"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="3695b804-d044-4fce-93af-219bfa20c19a"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="5c88ab53-d2b9-40e4-a528-610f5f5c50b3"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="449af867-9abc-4826-843e-7db086d8b58d"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="bccbecae-4156-431c-a2ea-c9faf2dc0321"/>
+  <configurationExtensionCompatibilityMode>8.3.17</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <requiredMobileApplicationPermissions>
+    <permission>AllowOSBackup</permission>
+    <use>true</use>
+  </requiredMobileApplicationPermissions>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.17</compatibilityMode>
+  <languages uuid="5c01af56-957d-4c94-8deb-abf67d8af569">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <documents>Document.Document</documents>
+  <documents>Document.Document1</documents>
+</mdclass:Configuration>
